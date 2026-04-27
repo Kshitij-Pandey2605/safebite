@@ -22,7 +22,6 @@
 </div>
 
 ## 📌 Problem Statement
-
 Every day, **millions of people order food online** — completely blind to what's happening in the kitchen.
 
 | What Users See | What They Don't See |
@@ -37,7 +36,6 @@ Every day, **millions of people order food online** — completely blind to what
 ---
 
 ## 💡 Solution — SafeBite
-
 **SafeBite** doesn't just connect you to restaurants. It gives you the **full picture** before you order.
 
 We surface **verified safety data**, **real nutrition metrics**, and **AI-flagged risk signals** so every food decision is an informed one — without sacrificing convenience or experience.
@@ -77,7 +75,6 @@ SafeBite is built on one core belief: **your health is non-negotiable, and trans
 ---
 
 ## 🖥️ Screens & Modules
-
 | Screen | Description |
 |---|---|
 | 🏠 **Landing Page** | Immersive hero with value proposition, safety score preview, and CTA |
@@ -94,7 +91,6 @@ SafeBite is built on one core belief: **your health is non-negotiable, and trans
 ---
 
 ## 🎨 Figma Design
-
 > 🔗 **[View Full Design on Figma →](https://www.figma.com/design/DATaOvXVnp5zlH8K606Zyv/Untitled?node-id=0-1&t=NXlCBRtKaE3TPspR-1)**
 
 The complete UI/UX for SafeBite has been fully designed in Figma before a single line of code was written — a **design-first, development-ready** approach.
@@ -108,7 +104,6 @@ The complete UI/UX for SafeBite has been fully designed in Figma before a single
 ---
 
 ## 🎨 Design Philosophy
-
 SafeBite's visual language is built on **trust, clarity, and premium simplicity**.
 
 ```
@@ -127,7 +122,6 @@ Inspired by → Stripe · Linear · Notion · Vercel
 ---
 
 ## 🧠 How It Works
-
 ```
 Step 1 — 🔍 BROWSE
   └── Search restaurants by location, cuisine, or safety threshold
@@ -176,7 +170,6 @@ Get SafeBite running locally in under 60 seconds.
 - npm `v9+`
 
 ### Steps
-
 ```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/safebite.git
@@ -196,7 +189,6 @@ npm run dev
 ---
 
 ## 🚀 Future Improvements
-
 SafeBite is just getting started. Here's where we're headed:
 
 - 🔗 **Real-time Inspection APIs** — Live integration with government food safety authorities
@@ -210,7 +202,6 @@ SafeBite is just getting started. Here's where we're headed:
 ---
 
 ## 📊 Why This Project Matters
-
 > **Food safety is not a feature — it's a fundamental right.**
 
 The global online food delivery market is projected to surpass **$500 billion by 2030**. Yet not a single major platform gives users verified, transparent access to kitchen safety data before ordering.
@@ -226,7 +217,6 @@ This isn't a side project. It's the infrastructure layer that the food delivery 
 ---
 
 ## 🤝 Contributing
-
 SafeBite is open to contributions from developers, designers, and food safety advocates.
 
 ```bash
@@ -243,7 +233,6 @@ All contributions — big or small — are genuinely appreciated. ⭐
 ---
 
 ## 📬 Contact
-
 Have questions, feedback, or collaboration ideas?
 
 | Channel | Link |
