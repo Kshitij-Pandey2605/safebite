@@ -43,6 +43,22 @@
       gtag('config', 'G-XXXXXXXX');
     </script>
     
+    <!-- Structured Data: JSON-LD -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "SafeBite",
+        "url": "https://safebite.app/",
+        "description": "SafeBite helps you find and order from safety-verified restaurants. Every kitchen is hygiene-rated so you always know what you're eating.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://safebite.app/restaurants?search={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    
     <title>SafeBite — Eat Smart. Eat Safe. Every Time.</title>
   </head>
   <body>
