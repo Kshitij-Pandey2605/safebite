@@ -74,5 +74,81 @@ export const MOCK_RESTAURANTS = [
       { id: 'm7', name: 'Pad Thai Chicken', price: 380, description: 'Classic thin rice noodles with sprouts and peanuts.', healthScore: 65 },
       { id: 'm8', name: 'Spicy Drunken Noodles', price: 420, description: 'Wide noodles with basil and chili.', healthScore: 60 },
     ]
+  },
+  {
+    id: '5',
+    name: 'Mamma Mia Pizza',
+    cuisine: 'Italian, Pizza, Pasta',
+    safetyScore: 88,
+    healthRating: 7,
+    deliveryTime: '35-45 min',
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=600&auto=format&fit=crop',
+    rating: 4.6,
+    reviews: 320,
+    priceRange: '$$',
+    description: 'Authentic wood-fired pizzas made with imported Italian ingredients.',
+    location: '72 Roma Street, Little Italy',
+    safetyFeatures: ['High-Temp Ovens', 'Daily Deep Clean'],
+    menu: [
+      { id: 'm9', name: 'Margherita Pizza', price: 650, description: 'Fresh tomatoes, mozzarella, and basil.', healthScore: 70 },
+      { id: 'm10', name: 'Truffle Mushroom Pasta', price: 720, description: 'Creamy pasta with wild mushrooms and truffle oil.', healthScore: 60 }
+    ]
+  },
+  {
+    id: '6',
+    name: 'Taco Fiesta',
+    cuisine: 'Mexican, Tacos, Street Food',
+    safetyScore: 75,
+    healthRating: 5,
+    deliveryTime: '15-25 min',
+    image: 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=600&auto=format&fit=crop',
+    rating: 4.3,
+    reviews: 185,
+    priceRange: '$',
+    description: 'Authentic street tacos with homemade salsas.',
+    location: '5 Cinco Ave, Fiesta District',
+    safetyFeatures: ['Frequent Handwashing', 'Fresh Sourced Veggies'],
+    menu: [
+      { id: 'm11', name: 'Al Pastor Tacos (3pcs)', price: 300, description: 'Marinated pork with pineapple and onions.', healthScore: 55 },
+      { id: 'm12', name: 'Veggie Burrito', price: 350, description: 'Black beans, rice, grilled peppers, and guac.', healthScore: 80 }
+    ]
+  },
+  {
+    id: '7',
+    name: 'The Vegan Kitchen',
+    cuisine: 'Vegan, Plant-Based, Healthy',
+    safetyScore: 99,
+    healthRating: 10,
+    deliveryTime: '30-40 min',
+    image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=600&auto=format&fit=crop',
+    rating: 4.9,
+    reviews: 450,
+    priceRange: '$$',
+    description: '100% plant-based comfort food that is good for you and the planet.',
+    location: '90 Green Blvd, Eco City',
+    safetyFeatures: ['Allergen Separation', 'Organic Certified', 'Zero Waste Packaging'],
+    menu: [
+      { id: 'm13', name: 'Beyond Meat Burger', price: 550, description: 'Plant-based patty with vegan cheese.', healthScore: 85 },
+      { id: 'm14', name: 'Acai Power Bowl', price: 420, description: 'Acai topped with fresh berries and granola.', healthScore: 100 }
+    ]
+  },
+  {
+    id: '8',
+    name: 'Spice Route Curry House',
+    cuisine: 'Indian, Curry, Spices',
+    safetyScore: 85,
+    healthRating: 6,
+    deliveryTime: '40-50 min',
+    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=600&auto=format&fit=crop',
+    rating: 4.5,
+    reviews: 275,
+    priceRange: '$$',
+    description: 'Rich, aromatic curries cooked to perfection using traditional family recipes.',
+    location: '34 Spice Market Rd, Old Town',
+    safetyFeatures: ['Hot Holding Temperatures', 'Spice Quality Control'],
+    menu: [
+      { id: 'm15', name: 'Butter Chicken', price: 480, description: 'Tender chicken in a rich, creamy tomato sauce.', healthScore: 50 },
+      { id: 'm16', name: 'Palak Paneer', price: 400, description: 'Cottage cheese cubes in a spiced spinach gravy.', healthScore: 75 }
+    ]
   }
 ];
